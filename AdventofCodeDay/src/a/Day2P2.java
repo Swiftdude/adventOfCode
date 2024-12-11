@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.io.File;
 
 
-public class Day2P1 {
+public class Day2P2 {
 
 	public static boolean decreasing(String[] list) {
 		
